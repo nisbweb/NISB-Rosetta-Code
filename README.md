@@ -79,5 +79,6 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 <br><br>
 <p style="margin:auto">
 <a href=https:&#x2F;&#x2F;github.com&#x2F;VarunV991><img src=https:&#x2F;&#x2F;i.imgur.com&#x2F;0iWLs8x.jpg width="20%" height="20%"/>Varun V&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;saxenamanas><img src=https:&#x2F;&#x2F;imgur.com&#x2F;a&#x2F;qWAM7Uq width="20%" height="20%"/>Manas Saxena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
