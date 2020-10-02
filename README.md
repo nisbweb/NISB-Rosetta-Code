@@ -72,7 +72,7 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 
 ## Contributers:
 <p style="margin:auto">
-<a href=https:&#x2F;&#x2F;github.com&#x2F;varunbheemaiah><img src=https:&#x2F;&#x2F;avatars1.githubusercontent.com&#x2F;u&#x2F;32514558?s&#x3D;400&amp;u&#x3D;523bcf63746ca2162a24b286e1e1aa9d11a1a3ea&amp;v&#x3D;4 width="20%" height="20%"/>Pranav B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;varunbheemaiah><img src=https:&#x2F;&#x2F;avatars1.githubusercontent.com&#x2F;u&#x2F;32514558?s&#x3D;400&amp;u&#x3D;523bcf63746ca2162a24b286e1e1aa9d11a1a3ea&amp;v&#x3D;4 width="20%" height="20%"/>Varun Bheemaiah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;Blaze2305><img src=https:&#x2F;&#x2F;i.pinimg.com&#x2F;originals&#x2F;6f&#x2F;74&#x2F;55&#x2F;6f7455b4f10b241ad463057762f3170f.jpg width="20%" height="20%"/>Pranav B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;sudesh1611><img src=https:&#x2F;&#x2F;sudeshkumar.me&#x2F;images&#x2F;profile-pic.jpg width="20%" height="20%"/>Sudesh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
