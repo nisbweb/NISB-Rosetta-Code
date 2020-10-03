@@ -1,35 +1,39 @@
 {
-	"contribs": [
-		{
-			"name":"Varun Bheemaiah",
-			"link":"https://github.com/varunbheemaiah",
-			"image":"https://avatars1.githubusercontent.com/u/32514558?s=400&u=523bcf63746ca2162a24b286e1e1aa9d11a1a3ea&v=4"
-		},
-		{
-			"name":"Pranav B",
-			"link":"https://github.com/Blaze2305",
-			"image":"https://i.pinimg.com/originals/6f/74/55/6f7455b4f10b241ad463057762f3170f.jpg"
-		},
-		{
-			"name":"Sudesh",
-			"link":"https://github.com/sudesh1611",
-			"image":"https://sudeshkumar.me/images/profile-pic.jpg"
-		},
-		{
-			"name":"Akshay Nachappa",
-			"link":"https://github.com/AkshayNachappa",
-			"image":"https://i.imgur.com/91mAE6S.jpg"
-		},
-		{
-			"name":"Varun V",
-			"link":"https://github.com/VarunV991",
-			"image":"https://i.imgur.com/0iWLs8x.jpg"
-		},
-		{
-			"name":"Manas Saxena",
-			"link":"https://github.com/saxenamanas",
-			"image":"https://imgur.com/a/qWAM7Uq"
-		}
-
-	]
+  "contribs": [
+    {
+      "name": "Varun Bheemaiah",
+      "link": "https://github.com/varunbheemaiah",
+      "image": "https://avatars1.githubusercontent.com/u/32514558?s=400&u=523bcf63746ca2162a24b286e1e1aa9d11a1a3ea&v=4"
+    },
+    {
+      "name": "Pranav B",
+      "link": "https://github.com/Blaze2305",
+      "image": "https://i.pinimg.com/originals/6f/74/55/6f7455b4f10b241ad463057762f3170f.jpg"
+    },
+    {
+      "name": "Sudesh",
+      "link": "https://github.com/sudesh1611",
+      "image": "https://sudeshkumar.me/images/profile-pic.jpg"
+    },
+    {
+      "name": "Akshay Nachappa",
+      "link": "https://github.com/AkshayNachappa",
+      "image": "https://i.imgur.com/91mAE6S.jpg"
+    },
+    {
+      "name": "Varun V",
+      "link": "https://github.com/VarunV991",
+      "image": "https://i.imgur.com/0iWLs8x.jpg"
+    },
+    {
+      "name": "Manas Saxena",
+      "link": "https://github.com/saxenamanas",
+      "image": "https://imgur.com/a/qWAM7Uq"
+    },
+    {
+      "name": "Kamiben",
+      "link": "https://github.com/skamiben",
+      "image": "https://avatars1.githubusercontent.com/u/389495?s=60&v=4"
+    }
+  ]
 }
