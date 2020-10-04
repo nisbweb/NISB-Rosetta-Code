@@ -83,3 +83,9 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 <a href=https:&#x2F;&#x2F;github.com&#x2F;saxenamanas><img src=https:&#x2F;&#x2F;imgur.com&#x2F;a&#x2F;qWAM7Uq width="20%" height="20%"/>Manas Saxena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
+<p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;skamiben><img src=https:&#x2F;&#x2F;avatars1.githubusercontent.com&#x2F;u&#x2F;389495?s&#x3D;60&amp;v&#x3D;4 width="20%" height="20%"/>Kamiben&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;U-C-S><img src=https:&#x2F;&#x2F;avatars0.githubusercontent.com&#x2F;u&#x2F;50218121?s&#x3D;460&amp;u&#x3D;99ad3790e9c9ce5d051b3efc68f57a43dea93e8d&amp;v&#x3D;4 width="20%" height="20%"/>U Chanakya S&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;sgkul2000><img src=https:&#x2F;&#x2F;www.codekulkarni.com&#x2F;indexResources&#x2F;images&#x2F;profile.jpg width="20%" height="20%"/>Shreesh Kulkarni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+<br><br>
