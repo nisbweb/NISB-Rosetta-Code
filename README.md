@@ -89,3 +89,7 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 <a href=https:&#x2F;&#x2F;github.com&#x2F;sgkul2000><img src=https:&#x2F;&#x2F;www.codekulkarni.com&#x2F;indexResources&#x2F;images&#x2F;profile.jpg width="20%" height="20%"/>Shreesh Kulkarni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
+<p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;kolya5544><img src=https:&#x2F;&#x2F;i.imgur.com&#x2F;Fmabm8h.png width="20%" height="20%"/>Nickolay Kushnarenko&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+<br><br>
