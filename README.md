@@ -72,24 +72,24 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 
 ## Contributers:
 <p style="margin:auto">
-<a href=https:&#x2F;&#x2F;github.com&#x2F;varunbheemaiah><img src=https:&#x2F;&#x2F;avatars1.githubusercontent.com&#x2F;u&#x2F;32514558?s&#x3D;400&amp;u&#x3D;523bcf63746ca2162a24b286e1e1aa9d11a1a3ea&amp;v&#x3D;4 width="20%" height="20%"/>Varun Bheemaiah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href=https:&#x2F;&#x2F;github.com&#x2F;Blaze2305><img src=https:&#x2F;&#x2F;i.pinimg.com&#x2F;originals&#x2F;6f&#x2F;74&#x2F;55&#x2F;6f7455b4f10b241ad463057762f3170f.jpg width="20%" height="20%"/>Pranav B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href=https:&#x2F;&#x2F;github.com&#x2F;sudesh1611><img src=https:&#x2F;&#x2F;sudeshkumar.me&#x2F;images&#x2F;profile-pic.jpg width="20%" height="20%"/>Sudesh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;varunbheemaiah><img src=https:&#x2F;&#x2F;avatars1.githubusercontent.com&#x2F;u&#x2F;32514558?s&#x3D;400&amp;u&#x3D;523bcf63746ca2162a24b286e1e1aa9d11a1a3ea&amp;v&#x3D;4 width="15%" height="15%"/>Varun Bheemaiah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;Blaze2305><img src=https:&#x2F;&#x2F;i.pinimg.com&#x2F;originals&#x2F;6f&#x2F;74&#x2F;55&#x2F;6f7455b4f10b241ad463057762f3170f.jpg width="15%" height="15%"/>Pranav B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;sudesh1611><img src=https:&#x2F;&#x2F;sudeshkumar.me&#x2F;images&#x2F;profile-pic.jpg width="15%" height="15%"/>Sudesh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
 <p style="margin:auto">
-<a href=https:&#x2F;&#x2F;github.com&#x2F;AkshayNachappa><img src=https:&#x2F;&#x2F;i.imgur.com&#x2F;91mAE6S.jpg width="20%" height="20%"/>Akshay Nachappa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href=https:&#x2F;&#x2F;github.com&#x2F;VarunV991><img src=https:&#x2F;&#x2F;i.imgur.com&#x2F;0iWLs8x.jpg width="20%" height="20%"/>Varun V&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href=https:&#x2F;&#x2F;github.com&#x2F;saxenamanas><img src=https:&#x2F;&#x2F;imgur.com&#x2F;a&#x2F;qWAM7Uq width="20%" height="20%"/>Manas Saxena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;AkshayNachappa><img src=https:&#x2F;&#x2F;i.imgur.com&#x2F;91mAE6S.jpg width="15%" height="15%"/>Akshay Nachappa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;VarunV991><img src=https:&#x2F;&#x2F;i.imgur.com&#x2F;0iWLs8x.jpg width="15%" height="15%"/>Varun V&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;saxenamanas><img src=https:&#x2F;&#x2F;imgur.com&#x2F;a&#x2F;qWAM7Uq width="15%" height="15%"/>Manas Saxena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
 <p style="margin:auto">
-<a href=https:&#x2F;&#x2F;github.com&#x2F;skamiben><img src=https:&#x2F;&#x2F;avatars1.githubusercontent.com&#x2F;u&#x2F;389495?s&#x3D;60&amp;v&#x3D;4 width="20%" height="20%"/>Kamiben&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href=https:&#x2F;&#x2F;github.com&#x2F;U-C-S><img src=https:&#x2F;&#x2F;avatars0.githubusercontent.com&#x2F;u&#x2F;50218121?s&#x3D;460&amp;u&#x3D;99ad3790e9c9ce5d051b3efc68f57a43dea93e8d&amp;v&#x3D;4 width="20%" height="20%"/>U Chanakya S&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href=https:&#x2F;&#x2F;github.com&#x2F;sgkul2000><img src=https:&#x2F;&#x2F;www.codekulkarni.com&#x2F;indexResources&#x2F;images&#x2F;profile.jpg width="20%" height="20%"/>Shreesh Kulkarni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;skamiben><img src=https:&#x2F;&#x2F;avatars1.githubusercontent.com&#x2F;u&#x2F;389495?s&#x3D;60&amp;v&#x3D;4 width="15%" height="15%"/>Kamiben&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;U-C-S><img src=https:&#x2F;&#x2F;avatars0.githubusercontent.com&#x2F;u&#x2F;50218121?s&#x3D;460&amp;u&#x3D;99ad3790e9c9ce5d051b3efc68f57a43dea93e8d&amp;v&#x3D;4 width="15%" height="15%"/>U Chanakya S&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;sgkul2000><img src=https:&#x2F;&#x2F;www.codekulkarni.com&#x2F;indexResources&#x2F;images&#x2F;profile.jpg width="15%" height="15%"/>Shreesh Kulkarni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
 <p style="margin:auto">
-<a href=https:&#x2F;&#x2F;github.com&#x2F;kolya5544><img src=https:&#x2F;&#x2F;i.imgur.com&#x2F;Fmabm8h.png width="20%" height="20%"/>Nickolay Kushnarenko&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;kolya5544><img src=https:&#x2F;&#x2F;i.imgur.com&#x2F;Fmabm8h.png width="15%" height="15%"/>Nickolay Kushnarenko&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
