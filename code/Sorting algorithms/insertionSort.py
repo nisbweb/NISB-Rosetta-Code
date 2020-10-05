@@ -1,7 +1,6 @@
 import time
-import numpy as np
-
-def swapTwoAr(arr, pos1, pos2): #not utilising built ins
+import random
+def swap(arr, pos1, pos2): 
     temp = arr[pos1]
     arr[pos1] = arr[pos2]
     arr[pos2] = temp
@@ -13,7 +12,7 @@ def insertionSort(A):
         for ii in range(1, len(A)):
             i = ii
             while(i > 0) and (A[i-1] > A[i]):
-                swapTwoAr(A, i, i-1)
+                swap(A, i, i-1)
                 i = i - 1
     except TypeError:
         print("Error in input")
@@ -23,6 +22,6 @@ def insertionSort(A):
     print("---Finished in ", duration, "seconds---")
 
 
-testArr = np.random.randint(0, 999, size=(100))
+testArr = random.sample(range(500),100)
 insertionSort(testArr)
 print(testArr)
