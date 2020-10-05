@@ -95,3 +95,7 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 <a href=https:&#x2F;&#x2F;github.com&#x2F;CodePurble><img src=https:&#x2F;&#x2F;avatars3.githubusercontent.com&#x2F;u&#x2F;49452779?s&#x3D;400&amp;u&#x3D;1c5f451ed6a899b657dd95ca892393cd2284886b&amp;v&#x3D;4 width="15%" height="15%"/>Ramprakash Chandrashekar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
+<p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;aadityaguptaa><img src=https:&#x2F;&#x2F;avatars3.githubusercontent.com&#x2F;u&#x2F;52538173?s&#x3D;460&amp;u&#x3D;82db702e700bdc6e33220bfde5463c1d3605c02f&amp;v&#x3D;4 width="15%" height="15%"/>Aditya Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+<br><br>
