@@ -1,4 +1,5 @@
 {
+
     "contribs": [{
             "name": "Varun Bheemaiah",
             "link": "https://github.com/varunbheemaiah",
@@ -53,6 +54,11 @@
             "name": "Dharithri M",
             "link": "https://github.com/Dharithri",
             "image": "https://www.fujifilm.co.nz/products/digital_cameras/x/fujifilm_x_t1/sample_images/img/index/ff_x_t1_001.JPG"
+        },
+        {
+            "name": "Ramprakash Chandrashekar",
+            "link": "https://github.com/CodePurble",
+            "image": "https://avatars3.githubusercontent.com/u/49452779?s=400&u=1c5f451ed6a899b657dd95ca892393cd2284886b&v=4"
         }
     ]
 }
