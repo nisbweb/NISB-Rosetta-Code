@@ -1,5 +1,4 @@
 {
-
     "contribs": [{
             "name": "Varun Bheemaiah",
             "link": "https://github.com/varunbheemaiah",
@@ -59,6 +58,11 @@
             "name": "Ramprakash Chandrashekar",
             "link": "https://github.com/CodePurble",
             "image": "https://avatars3.githubusercontent.com/u/49452779?s=400&u=1c5f451ed6a899b657dd95ca892393cd2284886b&v=4"
+        },
+        {
+            "name":"Aditya Gupta",
+            "link":"https://github.com/aadityaguptaa",
+            "image":"https://avatars3.githubusercontent.com/u/52538173?s=460&u=82db702e700bdc6e33220bfde5463c1d3605c02f&v=4"
         }
     ]
 }
