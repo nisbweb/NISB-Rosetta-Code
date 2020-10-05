@@ -91,5 +91,6 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 <br><br>
 <p style="margin:auto">
 <a href=https:&#x2F;&#x2F;github.com&#x2F;kolya5544><img src=https:&#x2F;&#x2F;i.imgur.com&#x2F;Fmabm8h.png width="15%" height="15%"/>Nickolay Kushnarenko&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;Dharithri><img src=https:&#x2F;&#x2F;www.fujifilm.co.nz&#x2F;products&#x2F;digital_cameras&#x2F;x&#x2F;fujifilm_x_t1&#x2F;sample_images&#x2F;img&#x2F;index&#x2F;ff_x_t1_001.JPG width="15%" height="15%"/>Dharithri M&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
