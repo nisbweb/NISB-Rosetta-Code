@@ -35,7 +35,7 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 - Clone on your local machine
     ```
   $ git clone https://github.com/<your username>/NISB-Rosetta-Code.git
-  $ cd NISB-Rosetta-Code
+  $ cd RosettaCode
   ```
 - Create a new branch 
     ```
@@ -98,5 +98,6 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 <p style="margin:auto">
 <a href=https:&#x2F;&#x2F;github.com&#x2F;aadityaguptaa><img src=https:&#x2F;&#x2F;avatars3.githubusercontent.com&#x2F;u&#x2F;52538173?s&#x3D;460&amp;u&#x3D;82db702e700bdc6e33220bfde5463c1d3605c02f&amp;v&#x3D;4 width="15%" height="15%"/>Aditya Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;TejasviKashyap><img src=https:&#x2F;&#x2F;avatars0.githubusercontent.com&#x2F;u&#x2F;44310745?s&#x3D;60&amp;v&#x3D;4 width="15%" height="15%"/>Tejasvi Kashyap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;Satyamkumarai><img src=https:&#x2F;&#x2F;avatars3.githubusercontent.com&#x2F;u&#x2F;35803352?s&#x3D;400&amp;v&#x3D;4 width="15%" height="15%"/>Satyam Rai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
