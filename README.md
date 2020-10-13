@@ -35,7 +35,7 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 - Clone on your local machine
     ```
   $ git clone https://github.com/<your username>/NISB-Rosetta-Code.git
-  $ cd RosettaCode
+  $ cd NISB-Rosetta-Code
   ```
 - Create a new branch 
     ```
