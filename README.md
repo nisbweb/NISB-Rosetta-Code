@@ -107,3 +107,7 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 <a href=https:&#x2F;&#x2F;github.com&#x2F;AdeepKrishnaKeelar><img src=https:&#x2F;&#x2F;avatars0.githubusercontent.com&#x2F;u&#x2F;69258931?s&#x3D;400&amp;v&#x3D;4 width="15%" height="15%"/>Adeep Krishna Keelar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
+<p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;VaishnaviRathi1903><img src=https:&#x2F;&#x2F;avatars1.githubusercontent.com&#x2F;u&#x2F;68506577?s&#x3D;60&amp;v&#x3D;4 width="15%" height="15%"/>Vaishnavi Rathi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+<br><br>
