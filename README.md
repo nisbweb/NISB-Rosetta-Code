@@ -4,7 +4,7 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 ## Resources :
 - [How to create a pull request](https://www.youtube.com/watch?v=DIj2q02gvKs&feature=youtu.be)
 - [How to resolve merge conflicts](https://www.youtube.com/watch?v=zOx5PJTY8CI&feature=youtu.be)
-- [Hacktoberfest 2020 - Create your first pull request](https://www.youtube.com/watch?v=0BV1QCl8Az0)
+- [Make Your First Open Source Contribution in Hacktoberfest 2021](https://www.youtube.com/watch?v=JYe-XyFTuk0)
 - [Everything you need to know about hacktoberfest](https://medium.com/@geekanamika/everything-you-need-to-know-about-hacktoberfest-9bfc3376d92e)
 - [Come let’s get the Hacktoberfest T-shirt together: A Beginner’s Guide](https://code.likeagirl.io/come-lets-get-the-hacktoberfest-t-shirt-together-a-beginner-s-guide-890336148be5)
 
