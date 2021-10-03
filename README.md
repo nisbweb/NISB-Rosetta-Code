@@ -10,6 +10,7 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 
 ## Rules :
 - You are allowed to make pull requests that break the rules. We just won't merge it ;).
+- You can add your name and display picture to [contributors.json](https://github.com/nisbweb/NISB-Rosetta-Code/blob/master/contributers.json) only when the PR you make is meaningful
 - Do NOT add any build steps e.g npm install,pip install, cargo install etc.
 - Do NOT import any libraries apart from the ones available in the standard library for that language.
 - Do NOT make duplicates of the same code in the same language. Feel free to switch up the language if you wish to do so.
