@@ -1,88 +1,84 @@
-TOOLDIR := $(abspath $(HOME)/.local)
+export CFLAGS = -std=c99 -g
+export ASMFLAGS =
+export CC = gcc
+export CXX = g++
+export LD = gcc
+export ASM = nasm
+export LINKFLAGS =
+export LIBS =
 
-BIN_DIR := $(TOOLDIR)/bin/i686-elf
-LIB_DIR := $(TOOLDIR)/lib/i686-elf
+export TARGET = i686-elf
+export TARGET_ASM = nasm
+export TARGET_ASMFLAGS =
+export TARGET_CFLAGS = -std=c99 -g #-O2
+export TARGET_CC = $(TARGET)-gcc
+export TARGET_CXX = $(TARGET)-g++
+export TARGET_LD = $(TARGET)-gcc
+export TARGET_LINKFLAGS =
+export TARGET_LIBS =
 
-BUILD_DIR := $(BIN_DIR)/build
+export BUILD_DIR = $(abspath build)
 
-BINUTILS_VERSION := 2.32
-GDB_VERSION := 8.3.1
-GCC_VERSION := 9.2.0
+BINUTILS_VERSION = 2.37
+BINUTILS_URL = https://ftp.gnu.org/gnu/binutils/binutils-$(BINUTILS_VERSION).tar.xz
 
-BINUTILS_BUILD_DIR := $(BUILD_DIR)/binutils-$(BINUTILS_VERSION)
-GCC_BUILD_DIR := $(BUILD_DIR)/gcc-$(GCC_VERSION)
-GDB_BUILD_DIR := $(BUILD_DIR)/gdb-$(GDB_VERSION)
+GCC_VERSION = 11.2.0
+GCC_URL = https://ftp.gnu.org/gnu/gcc/gcc-$(GCC_VERSION)/gcc-$(GCC_VERSION).tar.xz
+TOOLCHAIN_PREFIX = $(abspath toolchain/$(TARGET))
+export PATH := $(TOOLCHAIN_PREFIX)/bin:$(PATH)
 
-BINUTILS_CFG_ARGS := --with-sysroot --disable-nls --disable-werror
-GCC_CFG_ARGS := --disable-nls --enable-languages=c,c++ --without-headers
-GDB_CFG_ARGS := --disable-nls --disable-werror
+toolchain: toolchain_binutils toolchain_gcc
 
-WGET_ARGS = -nv
-WGET := wget -P $(BUILD_DIR) $(WGET_ARGS)
+BINUTILS_SRC = toolchain/binutils-$(BINUTILS_VERSION)
+BINUTILS_BUILD = toolchain/binutils-build-$(BINUTILS_VERSION)
 
-.PHONY: all gdb gcc binutils clean
+toolchain_binutils: $(TOOLCHAIN_PREFIX)/bin/i686-elf-ld
 
-all: gdb gcc binutils
-        @echo "Done!"
-        make clean
+$(TOOLCHAIN_PREFIX)/bin/i686-elf-ld: $(BINUTILS_SRC).tar.xz
+	cd toolchain && tar -xf binutils-$(BINUTILS_VERSION).tar.xz
+	mkdir $(BINUTILS_BUILD)
+	cd $(BINUTILS_BUILD) && CFLAGS= ASMFLAGS= CC= CXX= LD= ASM= LINKFLAGS= LIBS= ../binutils-$(BINUTILS_VERSION)/configure \
+		--prefix="$(TOOLCHAIN_PREFIX)"	\
+		--target=$(TARGET)				\
+		--with-sysroot					\
+		--disable-nls					\
+		--disable-werror
+	$(MAKE) -j3 -C $(BINUTILS_BUILD)
+	$(MAKE) -C $(BINUTILS_BUILD) install
 
-clean:
-        rm -rf $(BUILD_DIR)
-
-$(BUILD_DIR):
-        mkdir -pv $(BUILD_DIR)
-
-$(LIB_DIR):
-        mkdir -pv $(LIB_DIR)
-
-gdb: $(BUILD_DIR) $(LIB_DIR) $(BUILD_DIR)/gdb-$(GDB_VERSION).tar.gz
-        tar -C $(BUILD_DIR) -xf $(BUILD_DIR)/gdb-$(GDB_VERSION).tar.gz
-
-        mkdir -p $(GDB_BUILD_DIR)/obj
-        cd $(GDB_BUILD_DIR)/obj\
-                && ../configure --target=i686-elf --prefix=$(GDB_BUILD_DIR)/obj $(GDB_CFG_ARGS)\
-                && make -j 2 tooldir=$(GDB_BUILD_DIR)/obj\
-                && make -j 2 tooldir=$(GDB_BUILD_DIR)/obj install\
-
-        -mv $(GDB_BUILD_DIR)/obj/bin/* $(BIN_DIR)
-        -mv $(GDB_BUILD_DIR)/obj/lib/* $(LIB_DIR)
-
-        rm -rf $(GDB_BUILD_DIR)
-
-binutils: $(BUILD_DIR) $(LIB_DIR) $(BUILD_DIR)/binutils-$(BINUTILS_VERSION).tar.gz
-        tar -C $(BUILD_DIR) -xf $(BUILD_DIR)/binutils-$(BINUTILS_VERSION).tar.gz
-
-        mkdir -p $(BINUTILS_BUILD_DIR)/obj
-        cd $(BINUTILS_BUILD_DIR)/obj\
-                && ../configure --target=i686-elf --prefix=$(BINUTILS_BUILD_DIR)/obj $(BINUTILS_CFG_ARGS)\
-                && make -j tooldir=$(BINUTILS_BUILD_DIR)/obj\
-                && make -j tooldir=$(BINUTILS_BUILD_DIR)/obj install\
-
-        -mv $(BINUTILS_BUILD_DIR)/obj/bin/* $(BIN_DIR)
-        -mv $(BINUTILS_BUILD_DIR)/obj/lib/* $(LIB_DIR)
-
-        rm -rf $(BINUTILS_BUILD_DIR)
+$(BINUTILS_SRC).tar.xz:
+	mkdir -p toolchain 
+	cd toolchain && wget $(BINUTILS_URL)
 
 
-gcc: $(BUILD_DIR) $(LIB_DIR) $(BUILD_DIR)/gcc-$(GCC_VERSION).tar.gz
-        tar -C $(BUILD_DIR) -xf $(BUILD_DIR)/gcc-$(GCC_VERSION).tar.gz
+GCC_SRC = toolchain/gcc-$(GCC_VERSION)
+GCC_BUILD = toolchain/gcc-build-$(GCC_VERSION)
 
-        mkdir -p $(GCC_BUILD_DIR)/obj
-        cd $(GCC_BUILD_DIR)/obj\
-                && ../configure --target=i686-elf --prefix=$(GCC_BUILD_DIR)/obj $(GCC_CFG_ARGS)\
-                && make -j 2 tooldir=$(GCC_BUILD_DIR)/obj all-gcc\
-                && make -j 2 tooldir=$(GCC_BUILD_DIR)/obj install-gcc\     //-j option depends on the number of cores , how many instructions to run at a time 
+toolchain_gcc: $(TOOLCHAIN_PREFIX)/bin/i686-elf-gcc
 
-        -mv $(GCC_BUILD_DIR)/obj/bin/* $(BIN_DIR)
-        -mv $(GCC_BUILD_DIR)/obj/lib/* $(LIB_DIR)
+$(TOOLCHAIN_PREFIX)/bin/i686-elf-gcc: $(TOOLCHAIN_PREFIX)/bin/i686-elf-ld $(GCC_SRC).tar.xz
+	cd toolchain && tar -xf gcc-$(GCC_VERSION).tar.xz
+	mkdir $(GCC_BUILD)
+	cd $(GCC_BUILD) && CFLAGS= ASMFLAGS= CC= CXX= LD= ASM= LINKFLAGS= LIBS= ../gcc-$(GCC_VERSION)/configure \
+		--prefix="$(TOOLCHAIN_PREFIX)" 	\
+		--target=$(TARGET)				\
+		--disable-nls					\
+		--enable-languages=c,c++		\
+		--without-headers
+	$(MAKE) -j3 -C $(GCC_BUILD) all-gcc all-target-libgcc
+	$(MAKE) -C $(GCC_BUILD) install-gcc install-target-libgcc
+	
+$(GCC_SRC).tar.xz:
+	mkdir -p toolchain
+	cd toolchain && wget $(GCC_URL)
 
-        rm -rf $(GCC_BUILD_DIR)
+#
+# Clean
+#
+clean-toolchain:
+	rm -rf $(GCC_BUILD) $(BINUTILS_BUILD) 
 
-$(BUILD_DIR)/gdb-$(GDB_VERSION).tar.gz:
-        $(WGET) http://ftp.gnu.org/gnu/gdb/gdb-$(GDB_VERSION).tar.gz
+clean-toolchain-all:
+	rm -rf toolchain/*
 
-$(BUILD_DIR)/gcc-$(GCC_VERSION).tar.gz:
-        $(WGET) http://ftp.gnu.org/gnu/gcc/gcc-$(GCC_VERSION)/gcc-$(GCC_VERSION).tar.gz
-
-$(BUILD_DIR)/binutils-$(BINUTILS_VERSION).tar.gz:
-        $(WGET) http://ftp.gnu.org/gnu/binutils/binutils-$(BINUTILS_VERSION).tar.gz
+.PHONY:  toolchain toolchain_binutils toolchain_gcc clean-toolchain clean-toolchain-all
