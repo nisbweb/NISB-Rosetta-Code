@@ -116,5 +116,11 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 <p style="margin:auto">
 <a href=https:&#x2F;&#x2F;github.com&#x2F;mys-anusha><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;85054042?v&#x3D;4 width="15%" height="15%"/>Anusha M M&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;abhi16180><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;64468853?s&#x3D;400&amp;u&#x3D;2d770ca57c839943997e2aac8f2ae753b08522b3&amp;v&#x3D;4 width="15%" height="15%"/>Abhilash Hegde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;pranav-nb><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;75573305?s&#x3D;400&amp;u&#x3D;baee2114de18805c516e8aab156ab450eaf31c4c&amp;v&#x3D;4 width="15%" height="15%"/>Pranav N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+<br><br>
+<p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;GouthamGowdaAD><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;96536922?s&#x3D;400&amp;v&#x3D;4 width="15%" height="15%"/>Goutham Gowda A D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;Ashmit-05><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;94384759?v&#x3D;4 width="15%" height="15%"/>Ashmit Bhardwaj&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
