@@ -73,11 +73,71 @@
             "name":"Satyam Rai",
             "link":"https://github.com/Satyamkumarai",
             "image":"https://avatars3.githubusercontent.com/u/35803352?s=400&v=4"
+<<<<<<< HEAD
         }
                  {
             "name":"Manu M B",
             "link":"https://github.com/mbmanu",
             "image":"https://avatars.githubusercontent.com/u/47355913?v=4"
         }
+=======
+        },
+        {
+            "name":"Pradyoth P",
+            "link":"https://github.com/ppradyoth",
+            "image":"https://avatars0.githubusercontent.com/u/65541269"
+        },
+        {
+            "name":"Varun Hegde",
+            "link":"https://github.com/varuntumbe",
+            "image":"https://avatars1.githubusercontent.com/u/44541344?s=400&u=237d8c9ee6dde301cd0f475b573c9383924bffc8&v=4"
+        },
+        {
+            "name":"Adeep Krishna Keelar",
+            "link":"https://github.com/AdeepKrishnaKeelar",
+            "image":"https://avatars0.githubusercontent.com/u/69258931?s=400&v=4"
+        },
+        {
+            "name":"Vaishnavi Rathi",
+            "link":"https://github.com/VaishnaviRathi1903",
+            "image":"https://avatars1.githubusercontent.com/u/68506577?s=60&v=4"
+        },
+        {
+            "name":"Kinar",
+            "link":"https://github.com/Kinar-Usha",
+            "image":"https://avatars.githubusercontent.com/u/60418426?v=4"
+        },
+        {
+            "name":"Aditya Subrahmanya Bhat",
+            "link":"https://github.com/AdityaSubrahmanyaBhat",
+            "image":"https://avatars.githubusercontent.com/u/70971391?s=400&u=0d338254bb1ae7ee6f295ee160addef5e86f0de0&v=4"
+        },
+        {
+            "name":"Anusha M M",
+            "link":"https://github.com/mys-anusha",
+            "image":"https://avatars.githubusercontent.com/u/85054042?v=4"
+        },
+        {
+            "name":"Abhilash Hegde",
+            "link":"https://github.com/abhi16180",
+            "image":"https://avatars.githubusercontent.com/u/64468853?s=400&u=2d770ca57c839943997e2aac8f2ae753b08522b3&v=4"
+        },
+        {
+            "name":"Pranav N",
+            "link":"https://github.com/pranav-nb",
+            "image":"https://avatars.githubusercontent.com/u/75573305?s=400&u=baee2114de18805c516e8aab156ab450eaf31c4c&v=4"
+        },
+        {
+            "name":"Goutham Gowda A D",
+            "link":"https://github.com/GouthamGowdaAD",
+            "image":"https://avatars.githubusercontent.com/u/96536922?s=400&v=4"
+        },
+        {
+		        "name":"Ashmit Bhardwaj",
+		        "link":"https://github.com/Ashmit-05",
+		        "image":"https://avatars.githubusercontent.com/u/94384759?v=4"
+      	}
+                 
+>>>>>>> 41d0d641c4ac7dee52f05ce0ec95be1ecc6d7f3b
     ]
 }

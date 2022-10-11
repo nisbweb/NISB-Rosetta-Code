@@ -35,7 +35,7 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 - Clone on your local machine
     ```
   $ git clone https://github.com/<your username>/NISB-Rosetta-Code.git
-  $ cd RosettaCode
+  $ cd NISB-Rosetta-Code
   ```
 - Create a new branch 
     ```
@@ -63,12 +63,12 @@ This is a beginner-friendly project to help you get started with your hacktoberf
     - Anyone with a github account and who is signed up for hacktoberfest :).
 - Who are you and why are you doing this?
     - We are the IEEE Student Branch of NIE, mysore . We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
-- How many pull request (PR) must be made, if I can get an awesome shirt for Hacktoberfest 2020?
+- How many pull request (PR) must be made, if I can get an awesome shirt for Hacktoberfest 2021?
     - 4
-- How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
-    - go to : https://hacktoberfest.digitalocean.com/stats/ (Scroll down to Check Out Your Own Stats).
-- What is the duration of Hacktoberfest 2020?
-    - It is from October 1st till October 31st, 2020.
+- How do I track my progress to get an awesome shirt from Hacktoberfest 2021?
+    - go to : https://hacktoberfest.digitalocean.com/profile (Scroll down to Check Out Your Own Stats).
+- What is the duration of Hacktoberfest 2021?
+    - It is from October 1st till October 31st, 2021.
 
 ## Contributers:
 <p style="margin:auto">
@@ -99,5 +99,28 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 <a href=https:&#x2F;&#x2F;github.com&#x2F;aadityaguptaa><img src=https:&#x2F;&#x2F;avatars3.githubusercontent.com&#x2F;u&#x2F;52538173?s&#x3D;460&amp;u&#x3D;82db702e700bdc6e33220bfde5463c1d3605c02f&amp;v&#x3D;4 width="15%" height="15%"/>Aditya Gupta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;TejasviKashyap><img src=https:&#x2F;&#x2F;avatars0.githubusercontent.com&#x2F;u&#x2F;44310745?s&#x3D;60&amp;v&#x3D;4 width="15%" height="15%"/>Tejasvi Kashyap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;Satyamkumarai><img src=https:&#x2F;&#x2F;avatars3.githubusercontent.com&#x2F;u&#x2F;35803352?s&#x3D;400&amp;v&#x3D;4 width="15%" height="15%"/>Satyam Rai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+<br><br>
+<p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;ppradyoth><img src=https:&#x2F;&#x2F;avatars0.githubusercontent.com&#x2F;u&#x2F;65541269 width="15%" height="15%"/>Pradyoth P&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;varuntumbe><img src=https:&#x2F;&#x2F;avatars1.githubusercontent.com&#x2F;u&#x2F;44541344?s&#x3D;400&amp;u&#x3D;237d8c9ee6dde301cd0f475b573c9383924bffc8&amp;v&#x3D;4 width="15%" height="15%"/>Varun Hegde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;AdeepKrishnaKeelar><img src=https:&#x2F;&#x2F;avatars0.githubusercontent.com&#x2F;u&#x2F;69258931?s&#x3D;400&amp;v&#x3D;4 width="15%" height="15%"/>Adeep Krishna Keelar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+<br><br>
+<p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;VaishnaviRathi1903><img src=https:&#x2F;&#x2F;avatars1.githubusercontent.com&#x2F;u&#x2F;68506577?s&#x3D;60&amp;v&#x3D;4 width="15%" height="15%"/>Vaishnavi Rathi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;Kinar-Usha><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;60418426?v&#x3D;4 width="15%" height="15%"/>Kinar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;AdityaSubrahmanyaBhat><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;70971391?s&#x3D;400&amp;u&#x3D;0d338254bb1ae7ee6f295ee160addef5e86f0de0&amp;v&#x3D;4 width="15%" height="15%"/>Aditya Subrahmanya Bhat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+<br><br>
+<p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;mys-anusha><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;85054042?v&#x3D;4 width="15%" height="15%"/>Anusha M M&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;abhi16180><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;64468853?s&#x3D;400&amp;u&#x3D;2d770ca57c839943997e2aac8f2ae753b08522b3&amp;v&#x3D;4 width="15%" height="15%"/>Abhilash Hegde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;pranav-nb><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;75573305?s&#x3D;400&amp;u&#x3D;baee2114de18805c516e8aab156ab450eaf31c4c&amp;v&#x3D;4 width="15%" height="15%"/>Pranav N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+<br><br>
+<p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;GouthamGowdaAD><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;96536922?s&#x3D;400&amp;v&#x3D;4 width="15%" height="15%"/>Goutham Gowda A D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href=https:&#x2F;&#x2F;github.com&#x2F;Ashmit-05><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;94384759?v&#x3D;4 width="15%" height="15%"/>Ashmit Bhardwaj&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
