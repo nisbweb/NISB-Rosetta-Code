@@ -102,25 +102,30 @@ This is a beginner-friendly project to help you get started with your hacktoberf
 </p>
 <br><br>
 <p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;mbmanu><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;47355913?v&#x3D;4 width="15%" height="15%"/>Manu M B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;ppradyoth><img src=https:&#x2F;&#x2F;avatars0.githubusercontent.com&#x2F;u&#x2F;65541269 width="15%" height="15%"/>Pradyoth P&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;varuntumbe><img src=https:&#x2F;&#x2F;avatars1.githubusercontent.com&#x2F;u&#x2F;44541344?s&#x3D;400&amp;u&#x3D;237d8c9ee6dde301cd0f475b573c9383924bffc8&amp;v&#x3D;4 width="15%" height="15%"/>Varun Hegde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href=https:&#x2F;&#x2F;github.com&#x2F;AdeepKrishnaKeelar><img src=https:&#x2F;&#x2F;avatars0.githubusercontent.com&#x2F;u&#x2F;69258931?s&#x3D;400&amp;v&#x3D;4 width="15%" height="15%"/>Adeep Krishna Keelar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
 <p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;AdeepKrishnaKeelar><img src=https:&#x2F;&#x2F;avatars0.githubusercontent.com&#x2F;u&#x2F;69258931?s&#x3D;400&amp;v&#x3D;4 width="15%" height="15%"/>Adeep Krishna Keelar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;VaishnaviRathi1903><img src=https:&#x2F;&#x2F;avatars1.githubusercontent.com&#x2F;u&#x2F;68506577?s&#x3D;60&amp;v&#x3D;4 width="15%" height="15%"/>Vaishnavi Rathi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;Kinar-Usha><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;60418426?v&#x3D;4 width="15%" height="15%"/>Kinar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href=https:&#x2F;&#x2F;github.com&#x2F;AdityaSubrahmanyaBhat><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;70971391?s&#x3D;400&amp;u&#x3D;0d338254bb1ae7ee6f295ee160addef5e86f0de0&amp;v&#x3D;4 width="15%" height="15%"/>Aditya Subrahmanya Bhat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
 <p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;AdityaSubrahmanyaBhat><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;70971391?s&#x3D;400&amp;u&#x3D;0d338254bb1ae7ee6f295ee160addef5e86f0de0&amp;v&#x3D;4 width="15%" height="15%"/>Aditya Subrahmanya Bhat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;mys-anusha><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;85054042?v&#x3D;4 width="15%" height="15%"/>Anusha M M&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;abhi16180><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;64468853?s&#x3D;400&amp;u&#x3D;2d770ca57c839943997e2aac8f2ae753b08522b3&amp;v&#x3D;4 width="15%" height="15%"/>Abhilash Hegde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href=https:&#x2F;&#x2F;github.com&#x2F;pranav-nb><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;75573305?s&#x3D;400&amp;u&#x3D;baee2114de18805c516e8aab156ab450eaf31c4c&amp;v&#x3D;4 width="15%" height="15%"/>Pranav N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
 <p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;pranav-nb><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;75573305?s&#x3D;400&amp;u&#x3D;baee2114de18805c516e8aab156ab450eaf31c4c&amp;v&#x3D;4 width="15%" height="15%"/>Pranav N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;GouthamGowdaAD><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;96536922?s&#x3D;400&amp;v&#x3D;4 width="15%" height="15%"/>Goutham Gowda A D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href=https:&#x2F;&#x2F;github.com&#x2F;Ashmit-05><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;94384759?v&#x3D;4 width="15%" height="15%"/>Ashmit Bhardwaj&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+<br><br>
+<p style="margin:auto">
+<a href=https:&#x2F;&#x2F;github.com&#x2F;Mayur-Joshi3108><img src=https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;61002138?v&#x3D;4 width="15%" height="15%"/>Mayur Joshi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 <br><br>
