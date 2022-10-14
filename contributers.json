@@ -73,6 +73,14 @@
             "name":"Satyam Rai",
             "link":"https://github.com/Satyamkumarai",
             "image":"https://avatars3.githubusercontent.com/u/35803352?s=400&v=4"
+<<<<<<< HEAD
+        }
+                 {
+            "name":"Manu M B",
+            "link":"https://github.com/mbmanu",
+            "image":"https://avatars.githubusercontent.com/u/47355913?v=4"
+        }
+=======
         },
         {
             "name":"Pradyoth P",
@@ -130,5 +138,6 @@
 		        "image":"https://avatars.githubusercontent.com/u/94384759?v=4"
       	}
                  
+>>>>>>> 41d0d641c4ac7dee52f05ce0ec95be1ecc6d7f3b
     ]
 }
