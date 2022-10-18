@@ -1,0 +1,17 @@
+div {
+    background-color: lightcyan;
+    width: 600px;
+    height: 400px;
+    border: 10px solid black;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+#heading {
+    color: crimson;
+    font-size: 40px;
+    font-weight: 600;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
