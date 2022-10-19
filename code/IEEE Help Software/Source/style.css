@@ -1,7 +1,7 @@
 div.main {
     background-color: whitesmoke;
-    width: 600px;
-    height: 400px;
+    width: 650px;
+    height: 500px;
     border: 10px solid black;
     padding: 50px;
     margin: 20px;
@@ -31,15 +31,17 @@ div.afterheading {
     padding-bottom: 20px;
 }
 div.lefthangingtextafterbody {
-    padding-top: 100px;
     float: left;
+    padding-left: 10px;
+    padding-bottom: 10px;
 }
 div.righthangingtextafterbody {
-    padding: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
     float: right;
 }
 .signature {
     height: 150px;
     width: 150px;
-    padding-bottom: 40px;
+    padding-left: 10px;
 }
