@@ -1,5 +1,5 @@
-div {
-    background-color: lightcyan;
+div.main {
+    background-color: whitesmoke;
     width: 600px;
     height: 400px;
     border: 10px solid black;
@@ -14,4 +14,32 @@ div {
     font-weight: 600;
     font-style: italic;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.leftlogo {
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+.rightlogo {
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+div.afterheading {
+    padding-bottom: 20px;
+}
+div.lefthangingtextafterbody {
+    padding-top: 100px;
+    float: left;
+}
+div.righthangingtextafterbody {
+    padding: 20px;
+    float: right;
+}
+.signature {
+    height: 150px;
+    width: 150px;
+    padding-bottom: 40px;
 }
